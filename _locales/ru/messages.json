@@ -1,0 +1,8 @@
+{
+   "desc": {
+      "message": "Это расширение просто показывает самый актуальный курс Bitcoin Cash к доллару - BCH/USD. Ничего лишнего. Данные с Coinmarketcap."
+   },
+   "name": {
+      "message": "Bitcoin Cash (BCH)"
+   }
+}
